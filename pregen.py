@@ -2,8 +2,8 @@ from mcrcon import MCRcon
 import tqdm
 
 server_address  = "localhost"
-server_pass     = "specify a good password"
 server_port     = "25575"
+server_pass     = "specify a good password"
 
 radius = 128; # in chunks
 
